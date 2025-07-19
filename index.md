@@ -3,20 +3,22 @@ layout: homepage
 ---
 
 ## About Me
+I am a PhD candidate from The Chinese University of Hong Kong, under the supervision of Prof.Helen Meng and Prof.Haizhou Li.
+My current research focuses on audio-visual learning, speech extraction, and generative modeling.  Before that, I obtained my master’s degree in Machine Learning from KTH Royal Institute of Technology through the HIT-KTH 3+2 program, where I finished my master's thesis on vehicle trajectory prediction with Dr.Yuchao Li. 
 
-I am a Ph.D. student at ...
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Speech processing:** Speech Extraction, SpeechLLM
+- **Deep learning:** Generative modeling, Self-supervised Learning
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** Reported our work on SpeechHome seminar.
+- **[May. 2025]** Two papers accepted to Interspeech 2025.
+- **[Mar. 2025]** One journal paper accepted to IEEE JSTSP.
+- **[Mar. 2025]** One paper accepted to IEEE ICASSP 2025.
+- **[May. 2024]** One paper accepted to CVPR Sight and Sound workshop 2024.
+- **[Mar. 2024]** One paper accepted to IJCNN 2024.
+  
 
 {% include_relative _includes/publications.md %}
 
