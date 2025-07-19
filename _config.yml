@@ -1,22 +1,21 @@
 # Basic Information 
 title: wwu
-position: Ph.D. Student
+position: Ph.D. Candidate
 affiliation: CUHK
-email: yourname (at) example.edu
+email: wenxuan@link.cuhk.edu.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: wwu
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: 
+description:  
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+
+github_link: https://github.com/Alexwxwu
+linkedin: https://www.linkedin.com/in/wenxuan-w-487a951a2/
+
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
