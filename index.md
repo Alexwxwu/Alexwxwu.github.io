@@ -12,10 +12,10 @@ My current research focuses on speech extraction, generative models, and audio-v
 - **Deep learning:** Generative Models, Self-supervised Learning
 
 ## News
-- **[May. 2025]** Reported our work on SpeechHome seminar.
+- **[June. 2025]** Reported our work on SpeechHome seminar.
 - **[May. 2025]** Two papers accepted to Interspeech 2025.
 - **[Mar. 2025]** One journal paper accepted to IEEE JSTSP.
-- **[Mar. 2025]** One paper accepted to IEEE ICASSP 2025.
+- **[Oct. 2024]** One paper accepted to IEEE ICASSP 2025.
 - **[May. 2024]** One paper accepted to CVPR Sight and Sound workshop 2024.
 - **[Mar. 2024]** One paper accepted to IJCNN 2024.
   
