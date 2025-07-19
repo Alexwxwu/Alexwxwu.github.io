@@ -4,7 +4,7 @@ main:
 
   - title: 'Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction'
     authors: <strong>Wenxuan Wu</strong>, Shuai Wang, Xixin Wu, Helen Meng, Haizhou Li
-    conference_short: Interspeech
+    conference_short: Interspeech 2025
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.09792
     image: ./assets/img/linguistic-tse.png
@@ -25,14 +25,14 @@ main:
   
   - title: "DiffDSR: Dysarthric Speech Reconstruction Using Latent Diffusion Model"
     authors:  Xueyuan Chen, Dongchao Yang, <strong>Wenxuan Wu</strong>, Minglin Wu, Jing Xu, Xixin Wu, Zhiyong Wu, Helen Meng
-    conference_short: Interspeech
+    conference_short: Interspeech 2025
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.00350
     image: ./assets/img/DiffDSR.png
   
   - title: "Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions"
     authors: Lingwei Meng, Shujie Hu, Jiawen Kang, Zhaoqing Li, Yuejiao Wang, <strong>Wenxuan Wu</strong>, Xixin Wu, Xunying Liu, Helen Meng
-    conference_short: ICASSP
+    conference_short: ICASSP 2025
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.
     pdf: https://arxiv.org/abs/2409.08596
     image: ./assets/img/llm-tsr.png
