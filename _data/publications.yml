@@ -3,33 +3,33 @@ main:
 
 
   - title: 'Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction'
-    authors: <strong>Wenxuan Wu*</strong>, Shuai Wang, Xixin Wu, Helen Meng, Haizhou Li
+    authors: <strong>Wenxuan Wu</strong>, Shuai Wang, Xixin Wu, Helen Meng, Haizhou Li
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.09792
     image: ./assets/img/linguistic-tse.png
   
   - title: 'C2AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction'
-    authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Shuai Wang, Jiadong Wang, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li
+    authors: <strong>Wenxuan Wu</strong>, Xueyuan Chen, Shuai Wang, Jiadong Wang, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li
     conference_short: IEEE JSTSP
     conference: "IEEE Journal of Selected Topics in Signal Processing"
     pdf: https://arxiv.org/abs/2504.00750
     image: ./assets/img/c2av-tse.png
 
   - title: 'AVHuMAR: Target Speech Extraction with Pre-trained AV-HuBERT and Mask-And-Recover Strategy'
-    authors: "<strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng"
+    authors: <strong>Wenxuan Wu</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
     conference_short: "CVPR Sight and Sound Workshop 2024"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), 2024"
     pdf: https://sightsound.org/papers/2024/Wu_AVHuMAR_Audio-Visual_Target_Speech_Extraction_with_Pre-trained_AV-HuBERT_and_Mask-And-Recover_Strategy.pdf
     image: ./assets/img/avhumar.png
   
   - title: "DiffDSR: Dysarthric Speech Reconstruction Using Latent Diffusion Model"
-    authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
+    authors:  Xueyuan Chen, Dongchao Yang, <strong>Wenxuan Wu</strong>, Minglin Wu, Jing Xu, Xixin Wu, Zhiyong Wu, Helen Meng
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.00350
     image: ./assets/img/DiffDSR.png
   
   - title: "Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions"
-    authors: Lingwei Meng, Shujie Hu, Jiawen Kang, Zhaoqing Li, Yuejiao Wang, <strong>Wenxuan Wu*</strong>, Xixin Wu, Xunying Liu, Helen Meng
+    authors: Lingwei Meng, Shujie Hu, Jiawen Kang, Zhaoqing Li, Yuejiao Wang, <strong>Wenxuan Wu</strong>, Xixin Wu, Xunying Liu, Helen Meng
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.
     pdf: https://arxiv.org/abs/2409.08596
