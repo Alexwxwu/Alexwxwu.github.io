@@ -7,14 +7,14 @@ main:
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.09792
     image: ./assets/img/linguistic-tse.png
-
+    
   - title: "C2AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction”
     authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Shuai Wang, Jiadong Wang, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li
     conference_short: IEEE JSTSP
     conference: IEEE Journal of Selected Topics in Signal Processing.
     pdf: https://arxiv.org/abs/2504.00750
-    image: ./assets/img/c2avtse.png
- 
+    image: ./assets/img/c2av-tse.png
+    
   - title: "AVHuMAR: Target Speech Extraction with Pre-trained AV-HuBERT and Mask-And-Recover Strategy"
     authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
     conference_short: CVPR Sight and Sound Workshop 2024
