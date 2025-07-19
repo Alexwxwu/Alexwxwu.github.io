@@ -1,22 +1,38 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction"
+    authors: <strong>Wenxuan Wu*</strong>, Shuai Wang, Xixin Wu, Haizhou Li, Helen Meng
+    conference: Interspeech 2025.
+    pdf: https://arxiv.org/abs/2506.09792
+    image: ./assets/img/linguistic-tse.png
+
+  - title: "C2AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction”
+    authors:  <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Shuai Wang, Jiadong Wang, Lingwei Meng, Xixin Wu, Helen Meng, Haizhou Li,  
+    conference_short: IEEE JSTSP
+    conference: IEEE Journal of Selected Topics in Signal Processing.
+    pdf: https://arxiv.org/abs/2504.00750
+    image: ./assets/img/c2avtse.png
+ 
+  - title: "AVHuMAR: Target Speech Extraction with Pre-trained AV-HuBERT and Mask-And-Recover Strategy"
+    authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
+    conference_short: CVPR Sight and Sound Workshop 2024
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop <strong>(CVPRW)</strong>, 2024.
+    pdf: https://sightsound.org/papers/2024/Wu_AVHuMAR_Audio-Visual_Target_Speech_Extraction_with_Pre-trained_AV-HuBERT_and_Mask-And-Recover_Strategy.pdf
+    image: ./assets/img/avhumar.png
+
+ - title: "DiffDSR: Dysarthric Speech Reconstruction Using Latent Diffusion Model"
+    authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
+    conference: Interspeech 2025.
+    pdf: https://arxiv.org/abs/2506.00350
+    image: ./assets/img/DiffDSR.png
+
+- title: "Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions"
+    authors: Lingwei Meng, Shujie Hu, Jiawen Kang, Zhaoqing Li, Yuejiao Wang, <strong>Wenxuan Wu*</strong>, Xixin Wu, Xunying Liu, Helen Meng
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.
+    pdf: https://arxiv.org/abs/2409.08596
+    image: ./assets/img/llm-tsr.png
+  
+    
