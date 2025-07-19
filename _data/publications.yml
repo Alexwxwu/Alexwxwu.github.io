@@ -21,14 +21,14 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop <strong>(CVPRW)</strong>, 2024.
     pdf: https://sightsound.org/papers/2024/Wu_AVHuMAR_Audio-Visual_Target_Speech_Extraction_with_Pre-trained_AV-HuBERT_and_Mask-And-Recover_Strategy.pdf
     image: ./assets/img/avhumar.png
-
- - title: "DiffDSR: Dysarthric Speech Reconstruction Using Latent Diffusion Model"
+  
+  - title: "DiffDSR: Dysarthric Speech Reconstruction Using Latent Diffusion Model"
     authors: <strong>Wenxuan Wu*</strong>, Xueyuan Chen, Xixin Wu, Haizhou Li, Helen Meng
     conference: Interspeech 2025.
     pdf: https://arxiv.org/abs/2506.00350
     image: ./assets/img/DiffDSR.png
-
-- title: "Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions"
+  
+  - title: "Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions"
     authors: Lingwei Meng, Shujie Hu, Jiawen Kang, Zhaoqing Li, Yuejiao Wang, <strong>Wenxuan Wu*</strong>, Xixin Wu, Xunying Liu, Helen Meng
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing, 2025.
