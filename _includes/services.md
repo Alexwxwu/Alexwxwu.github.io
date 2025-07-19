@@ -1,13 +1,16 @@
+## Awards
+Postgraduate Studentships  CUHK
+Karl Engvers Foundation Scholarship  KTH
+KTH Covid-19 Financial Aid Scholarship KTH
+Study Excellence Scholarship HIT
+Honorable Mention MCM 2019 
 ## Services
-<h4 style="margin:0 10px 0;">Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>IEEE/ACM TASLP</autocolor></li>
-  <li><autocolor>IEEE IJCNN 2024, 2025</autocolor></li>
-</ul>
-<h4 style="margin:0 10px 0;">MISC</h4>
+  <li><autocolor>IEEE/ACM TASLP, reviewer</autocolor></li>
+  <li><autocolor>IEEE IJCNN 2024, 2025, reviewer</autocolor></li>
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Master thesis opponent, KTH</autocolor></li>
   <li><autocolor>International Doctoral Forum 2023, organizer member, CUHK</autocolor></li>
+  <li><autocolor>Master thesis opponent, KTH</autocolor></li>
 </ul>
 
 ## Teaching
