@@ -4,6 +4,7 @@
 <li><autocolor>KTH Covid-19 Financial Aid Scholarship, KTH</autocolor></li>
 <li><autocolor>Study Excellence Scholarship, HIT</autocolor></li>
 <li><autocolor>Honorable Mention, MCM 2019</autocolor></li>
+
 ## Services
 <ul style="margin:0 0 5px;">
   <li><autocolor>IEEE/ACM TASLP, reviewer</autocolor></li>
