@@ -19,6 +19,6 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>ENGG2440 Discrete Mathematics for Engineers, Spring terms, CUHK</autocolor></li>
   <li><autocolor>ENGG1120 Linear Algebra for Engineers, Fall terms, CUHK</autocolor></li>
-  <li><autocolor> Special Task Force TA</autocolor></li>
+  <li><autocolor> Special Task Force TA, CUHK</autocolor></li>
 </ul>
 
