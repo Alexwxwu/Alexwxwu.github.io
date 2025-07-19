@@ -1,9 +1,9 @@
 ## Awards
-Postgraduate Studentships  CUHK
-Karl Engvers Foundation Scholarship  KTH
-KTH Covid-19 Financial Aid Scholarship KTH
-Study Excellence Scholarship HIT
-Honorable Mention MCM 2019 
+<li><autocolor>Postgraduate Studentships, CUHK</autocolor></li>
+<li><autocolor>Karl Engvers Foundation Scholarship, KTH</autocolor></li>
+<li><autocolor>KTH Covid-19 Financial Aid Scholarship, KTH</autocolor></li>
+<li><autocolor>Study Excellence Scholarship, HIT</autocolor></li>
+<li><autocolor>Honorable Mention, MCM 2019</autocolor></li>
 ## Services
 <ul style="margin:0 0 5px;">
   <li><autocolor>IEEE/ACM TASLP, reviewer</autocolor></li>
