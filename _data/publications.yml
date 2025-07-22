@@ -6,7 +6,7 @@ main:
     conference_short: arXiv 
     conference: Submitted.
     pdf: https://arxiv.org/abs/2507.15294
-    Project Page: https://mrjunjieli.github.io/demo_page/MeMo/index.html
+    page: https://mrjunjieli.github.io/demo_page/MeMo/index.html
     image: ./assets/img/memo-logo.png
     
   - title: 'Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction'
