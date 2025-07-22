@@ -1,7 +1,14 @@
 main:
 
 
-
+  - title: 'MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions'
+    authors: Junjie Li, <strong>Wenxuan Wu</strong>, Shuai Wang, Zexu Pan, Kong Aik Lee, Helen Meng, Haizhou Li
+    conference_short: arXiv 
+    conference: Submitted
+    pdf: https://arxiv.org/abs/2507.15294
+    demo: https://mrjunjieli.github.io/demo_page/MeMo/index.html
+    image: ./assets/img/memo-logo.png
+    
   - title: 'Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction'
     authors: <strong>Wenxuan Wu</strong>, Shuai Wang, Xixin Wu, Helen Meng, Haizhou Li
     conference_short: Interspeech 2025
