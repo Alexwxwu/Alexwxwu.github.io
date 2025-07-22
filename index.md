@@ -12,6 +12,7 @@ My current research focuses on speech extraction, generative models, and audio-v
 - **Deep learning:** Generative Models, Self-supervised Learning
 
 ## News
+- **[July. 2025]** We introduce [MeMo](https://mrjunjieli.github.io/demo_page/MeMo/index.html), an online AVTSE framework equipped with memory banks.
 - **[June. 2025]** Reported our work on SpeechHome seminar.
 - **[May. 2025]** Two papers accepted to Interspeech 2025.
 - **[Mar. 2025]** One journal paper accepted to IEEE JSTSP.
