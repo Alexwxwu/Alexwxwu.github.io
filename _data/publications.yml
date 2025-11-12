@@ -8,7 +8,7 @@ main:
     page: https://alexwxwu.github.io/ELEGANCE/
     image: ./assets/img/ELEGANCE-logo.png
 
-  - title: 'MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions"
+  - title: 'MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions'
     authors: Junjie Li*, <strong>Wenxuan Wu*</strong>, Shuai Wang, Zexu Pan, Kong Aik Lee, Helen Meng, Haizhou Li (*Equal contribution)
     conference_short: arXiv 
     conference: Submitted.
