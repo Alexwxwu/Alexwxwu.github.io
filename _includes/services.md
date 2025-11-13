@@ -9,7 +9,7 @@
 
 ## Services
 <ul style="margin:0 0 5px;">
-  <li><autocolor>IEEE ICASSP 2026 reviewer</autocolor></li>
+  <li><autocolor>IEEE ICASSP 2026, reviewer</autocolor></li>
   <li><autocolor>IEEE/ACM TASLP, reviewer</autocolor></li>
   <li><autocolor>IEEE IJCNN 2024, 2025, reviewer</autocolor></li>
   <li><autocolor>International Doctoral Forum 2023, organizer member, CUHK</autocolor></li>
