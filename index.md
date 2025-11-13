@@ -12,8 +12,9 @@ My current research focuses on speech extraction, generative models, and audio-v
 - **Deep learning:** Generative Models, Self-supervised Learning
 
 ## News
+- **[Nov. 2025]** We introduce [ELEGANCE](https://alexwxwu.github.io/ELEGANCE/), incorporating three different linguistic knowledge from LLMs into AV-TSE models: linguistic constraints, linguistic prediction, and linguistic prior.
 - **[July. 2025]** We introduce [MeMo](https://mrjunjieli.github.io/demo_page/MeMo/index.html), an online AVTSE framework equipped with memory banks.
-- **[June. 2025]** Reported our work on SpeechHome seminar.
+- **[June. 2025]** Reported our work on AV-TSE at the SpeechHome seminar.
 - **[May. 2025]** Two papers accepted to Interspeech 2025.
 - **[Mar. 2025]** One journal paper accepted to IEEE JSTSP.
 - **[Oct. 2024]** One paper accepted to IEEE ICASSP 2025.
