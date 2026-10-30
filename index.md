@@ -12,6 +12,9 @@ My current research focuses on speech extraction, generative models, and audio-v
 - **Deep learning:** Generative Models, Self-supervised Learning
 
 ## News
+- **[Sep. 2026]** We incorporate dialogue prediction knowledge into streaming AV-TSE on real audio-visual dialogue mixtures.
+- **[Aug. 2026]** We introduce TSE-Omni, exploring the use of a single AR-LLM to support both synchronous and asynchronous cues.
+- **[Mar. 2026]** We introduce AlphaFlowTSE, a JVP-free method for one-step generation from mixtures without a mix-ratio predictor, and compare it with AD-FlowTSE and MeanFlow-TSE.
 - **[Nov. 2025]** We introduce [ELEGANCE](https://alexwxwu.github.io/ELEGANCE/), incorporating three different linguistic knowledge from LLMs into AV-TSE models: linguistic constraints, linguistic prediction, and linguistic prior.
 - **[July. 2025]** We introduce [MeMo](https://mrjunjieli.github.io/demo_page/MeMo/index.html), an online AVTSE framework equipped with memory banks.
 - **[June. 2025]** Reported our work on AV-TSE at the SpeechHome seminar.
