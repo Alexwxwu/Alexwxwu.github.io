@@ -23,6 +23,8 @@ My current research focuses on speech extraction, generative models, and audio-v
 - **[Oct. 2024]** One paper accepted to IEEE ICASSP 2025.
 - **[May. 2024]** One paper accepted to CVPR Sight and Sound workshop 2024.
 - **[Mar. 2024]** One paper accepted to IJCNN 2024.
+- **[Jul. 2023]** Passed my PhD qualifying examination (QE).
+- **[May. 2023]** Implemented clustering-based and EEND speaker diarization models on an in-house speech dataset (over 5 minutes per sample), including data curation, supervised fine-tuning (SFT), and cross-chunk speaker tracking to handle speaker-label permutations.
   
 
 {% include_relative _includes/publications.md %}
